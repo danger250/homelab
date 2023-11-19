@@ -22,11 +22,11 @@ repositories:
   - name: blog
     owner: danger250
     migrate:
-      source: https://github.com/danger250/blog
+      source: https://github.com/khuedoan/blog
       mirror: true
     hook: true
   - name: backstage
     owner: danger250
     migrate:
-      source: https://github.com/danger250/backstage
+      source: https://github.com/khuedoan/backstage
       mirror: true
