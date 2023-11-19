@@ -1,4 +1,4 @@
-module git.danger250.com/ops/homelab
+module git.khuedoan.com/ops/homelab
 
 go 1.20
 
