@@ -9,7 +9,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: &host draw.khuedoan.com
+    - host: &host draw.danger250.com
       http:
         paths:
           - pathType: ImplementationSpecific

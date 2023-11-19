@@ -1,4 +1,4 @@
-module git.khuedoan.com/khuedoan/homelab/vault/init
+module git.danger250.com/danger250/homelab/vault/init
 
 go 1.19
 

@@ -20,13 +20,13 @@ repositories:
       mirror: false
     hook: true
   - name: blog
-    owner: khuedoan
+    owner: danger250
     migrate:
-      source: https://github.com/khuedoan/blog
+      source: https://github.com/danger250/blog
       mirror: true
     hook: true
   - name: backstage
-    owner: khuedoan
+    owner: danger250
     migrate:
-      source: https://github.com/khuedoan/backstage
+      source: https://github.com/danger250/backstage
       mirror: true

@@ -1,4 +1,4 @@
-module git.khuedoan.com/ops/homelab
+module git.danger250.com/ops/homelab
 
 go 1.20
 
@@ -95,4 +95,4 @@ require (
 )
 
 // TODO https://github.com/gruntwork-io/terratest/pull/1182
-replace github.com/gruntwork-io/terratest v0.46.1 => github.com/khuedoan/terratest v0.0.0-20231027122225-118d656063b1
+replace github.com/gruntwork-io/terratest v0.46.1 => github.com/danger250/terratest v0.0.0-20231027122225-118d656063b1
