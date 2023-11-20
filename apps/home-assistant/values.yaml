@@ -19,3 +19,7 @@ home-assistant:
             - *host
   postgresql:
     enabled: true
+  persistence:
+    config:
+      enabled: true
+      size: 2Gi
